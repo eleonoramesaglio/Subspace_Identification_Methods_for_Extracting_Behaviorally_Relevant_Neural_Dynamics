@@ -5,7 +5,6 @@ Code and materials for my Master's thesis in Data Science at the **University of
 **Author:** Eleonora Mesaglio
 
 📄 **Thesis:** [`final/Mesaglio_Eleonora.pdf`](final/Mesaglio_Eleonora.pdf)
-
 🎤 **Slides:** [`final/thesis presentation.pdf`](final/thesis%20presentation.pdf)
 
 ---
