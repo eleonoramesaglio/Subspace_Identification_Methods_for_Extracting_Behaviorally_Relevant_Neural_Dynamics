@@ -1,4 +1,18 @@
+# Files
+
 /figure
 /papers
 /speech.odt
 /thesis_template
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
