@@ -27,16 +27,6 @@ The work covers the theoretical background, from-scratch numerical implementatio
 
 Both are implemented numerically and validated on simulated linear state-space models.
 
-## Getting Started
-
-```bash
-git clone https://github.com/eleonoramesaglio/thesis.git
-cd thesis/codice
-pip install numpy scipy matplotlib
-python PSID_numerical.py
-```
-
-Other scripts: `IPSID_numerical.py`, `PSID_IPSID_comparison.py`. Run them from `codice/` so the `.mat` files are found.
 
 ## Reading Guide
 
